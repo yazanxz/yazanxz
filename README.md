@@ -1,6 +1,6 @@
 # 🏄‍♂️ Yazan Alghannam
 
-**`Digital Craftsman (Developer/Social entrepreneur  /Data Master)`**
+**`Digital Craftsman (Frontend Developer/Python Developer/SQL and Data visualization)`**
 
 I'm an IT engineer who is passionate about data. I have knowledge in data warehousing, process validation, software development, and business needs analysis. I have also been proven to understand business requirements and translate into actionable projects. I am dedicated and hard-working, with a passion for the Data world and conquering new challenges. 
 
